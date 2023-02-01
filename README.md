@@ -16,9 +16,11 @@ That's why services like https://deref.link/ exsist, so you can know the link's 
 
 I'm only using its REST API to make this more convinet and fast. 
 To use, download the script to your ~/.shortcuts folder and give it executable permissions:
-```cd .shortcuts
+```
+cd .shortcuts
 git clone https://github.com/iti-D/termux-scripts/redirect_track.sh
-chmod +x redirect_track.sh```
+chmod +x redirect_track.sh
+```
 
 Now, whenever you come accross a sus link, just copy it and activate the script via the widget.
 
